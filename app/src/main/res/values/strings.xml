@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MenuOverflow</string>
+    <string name="op1">Seleccionaste la opcion 1</string>
+    <string name="op2">Seleccionaste la opcion 2</string>
+    <string name="op3">Seleccionaste la opcion 3</string>
+    <string name="op4">Selecccionaste la opcion 4</string>
+    <string name="buscar">Buscar</string>
+    <string name="compartir">Compartir</string>
+    <string name="opcion1">Opción 1</string>
+    <string name="opcion2">Opción 2</string>
+</resources>
